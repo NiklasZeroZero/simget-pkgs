@@ -1,0 +1,14 @@
+PackageIdentifier: Scumbumbo.XmlInjector.yaml
+Publisher: Scumbumbo
+PackageName: XML Injector
+PackageVersion: v4_categories_duplicates_check
+License: 
+LicenseUrl: 
+ShortDescription: The XML Injector for The Sims 4 is a mod library to allow mods that would normally require a script for simple changes to instead use a custom snippet.
+PackageUrl: https://scumbumbomods.com/xml-injector
+Installers:
+- InstallerUrl: https://scumbumbomods.com/s/XmlInjector_v4_categories_duplicates_check.zip
+  InstallerSha256: 
+PackageLocale: en-US
+ManifestType: singleton
+ManifestVersion: 1.0.0
