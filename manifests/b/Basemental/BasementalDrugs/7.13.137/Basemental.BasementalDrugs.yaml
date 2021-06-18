@@ -1,0 +1,14 @@
+PackageIdentifier: Basemental.BasementalDrugs
+Publisher: Basemental
+PackageName: Basemental Drugs
+PackageVersion: 7.13.137
+License: 
+LicenseUrl: 
+ShortDescription: Basemental Drugs is a collection of functional drugs for The Sims 4.
+PackageUrl: https://basementalcc.com/drugs/
+Installers:
+- InstallerUrl: https://basementalcc.com/wp-content/uploads/2021/04/Basemental-Drugs-7.13.137-PUBLIC.zip
+  InstallerSha256: 
+PackageLocale: en-US
+ManifestType: singleton
+ManifestVersion: 1.0.0
